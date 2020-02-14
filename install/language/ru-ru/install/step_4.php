@@ -3,7 +3,7 @@
 $_['heading_title']               = 'Установка завершена!';
 
 // Text
-$_['text_step_4']                 = 'Установка OpenCart (Русская сборка) завершена ';
+$_['text_step_4']                 = 'Установка OpenCart завершена ';
 $_['text_catalog']                = 'Перейти к витрине магазина';
 $_['text_admin']                  = 'Перейти в административную часть';
 $_['text_loading']                = 'Loading modules...';
